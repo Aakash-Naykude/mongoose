@@ -1,0 +1,24 @@
+{
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aakash-Naykude/mongoose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aakash-Naykude/mongoose/issues"
+  },
+  "homepage": "https://github.com/Aakash-Naykude/mongoose#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13"
+  }
+}
